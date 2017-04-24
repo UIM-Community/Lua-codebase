@@ -7,7 +7,7 @@ This repository has been created to save many scripts examples for LUA Scripting
 
 - MySQL & MSSQL provider [Here](provider.md)
 - Generate alarm (advanced with Spooler callback). [Here](generate_alarm.md)
-- Require lua file
+- Require lua file [Here](require.md)
 
 ## Replace event (example)
 
@@ -22,3 +22,7 @@ return event
 - Alarm rafale mode [Git](https://github.com/fraxken/rafale_mode)
 - Checkconfig [Git](https://github.com/fraxken/checkconfig_lua)
 - Auto-unassign [Git](https://github.com/fraxken/autoalarm_unassign)
+
+## Community links 
+
+- Lua optimization [Link](https://communities.ca.com/docs/DOC-231173416)
