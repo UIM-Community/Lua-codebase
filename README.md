@@ -5,7 +5,14 @@ This repository has been created to save many scripts examples for LUA Scripting
 
 ## Scripts 
 
-- MySQL & MSSQL provider
-- Replace event
+- MySQL & MSSQL provider [Here](provider.md)
 - Generate alarm (advanced with Spooler callback).
 - Require lua file
+
+## Replace event (example)
+
+```lua
+event.message = string.gsub(event.message,"#","/")
+event.supp_key = string.gsub(event.supp_key,"#","/")
+return event
+```
