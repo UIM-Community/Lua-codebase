@@ -8,6 +8,7 @@ This repository has been created to save many scripts examples for LUA Scripting
 - MySQL & MSSQL provider [Here](provider.md)
 - Generate alarm (advanced with Spooler callback). [Here](generate_alarm.md)
 - Require lua file [Here](require.md)
+- Delete old QOS [Here](delete_qos.md)
 
 ## Replace event (example)
 
